@@ -14,11 +14,11 @@ public class Main {
                  if(year % 100 == 0) {
                      if(year % 400 == 0) {
                          System.out.println("the year "+ year + " is leap");
+                     } else {
+                         System.out.println("the year " + year + " is not leap");
                      }
                  }
              }
-        } else {
-            System.out.println("this year is not leap" + year);
         }
     }
 }
