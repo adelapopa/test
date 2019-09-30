@@ -1,0 +1,79 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: Baloon#B3(3) registered to weather tower.
+Tower says: JetPlane#J1(4) registered to weather tower.
+Tower says: JetPlane#J2(5) registered to weather tower.
+Tower says: Helicopter#H1(6) registered to weather tower.
+Tower says: Helicopter#H2(7) registered to weather tower.
+Tower says: Helicopter#H3(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H1(6): it's  SNOW
+Helicopter#H2(7): it's  SNOW
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H1(6): it's  SUN
+Helicopter#H2(7): it's  SUN
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H1(6): it's  SNOW
+Helicopter#H1(6): landing.
+Tower says: Helicopter#H1(6) unregistered from weather tower.
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H2(7): it's  SUN
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H2(7): it's  SUN
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H2(7): it's  SNOW
+Helicopter#H2(7): landing.
+Tower says: Helicopter#H2(7) unregistered from weather tower.
+Helicopter#H4(9): it's  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H3(8): it's  SNOW
+Helicopter#H4(9): it's  SNOW
+Helicopter#H4(9): landing.
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H3(8): it's  SUN
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+Helicopter#H3(8): it's  SNOW
+Helicopter#H3(8): landing.
+Tower says: Helicopter#H3(8) unregistered from weather tower.
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J1(4): it's :  SUN
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SUN
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SUN
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J2(5): it's :  SNOW
+JetPlane#J2(5): landing.
+Tower says: JetPlane#J2(5) unregistered from weather tower.
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW
+JetPlane#J1(4): it's :  SNOW

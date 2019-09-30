@@ -27,7 +27,7 @@ public class Helicopter extends Aircraft implements Flyable{
         default:
             break;
     }
-        Main.writer.println(this.getClass().getSimpleName() + "#" + this.name + "(" + this.id + "): got " + weatherOnCoordinates + "ified seriously.");
+        Main.writer.println(this.getClass().getSimpleName() + "#" + this.name + "(" + this.id + "): it's  " + weatherOnCoordinates );
 
         if (this.coordinates.getHeight() == 0) {
             Main.writer.println(this.getClass().getSimpleName() + "#" + this.name + "(" + this.id + "): landing.");
